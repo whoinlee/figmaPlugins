@@ -1,0 +1,15 @@
+.viz-menuHolder {
+    margin-top: 12px;
+}
+
+.viz-buttonHolder {
+    padding: 6px 0px;
+}
+
+/* -- for antd buttons */
+.ant-btn-primary {
+    width: 280px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,22 @@
+{
+  "name": "AppDynamics",
+  "id": "1047928244550525452",
+  "api": "1.0.0",
+  "main": "dist/code.js",
+  "editorType": [
+    "figma"
+  ],
+  "ui": "dist/ui.html",
+  "menu": [
+    {"name": "Report a bug / request", "command": "bug"},
+    {"name": "Request Hi-Fi mock", "command": "mock"},
+    {"separator": true},
+    {"name": "Visualizations", "command": "visualize"},
+    {"separator": true},
+    {"name": "Create a Jira ticket", "command": "jira"},
+    {"separator": true},
+    {"name": "About", "command": "about"}
+  ],
+  "enablePrivatePluginApi": true,
+  "permissions": ["currentuser"]
+}

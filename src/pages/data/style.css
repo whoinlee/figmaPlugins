@@ -1,0 +1,30 @@
+.spinner {
+    width: 100%;
+    text-align: center;
+    margin: 20px 0;
+}
+
+.logo {
+    width: 140px;
+    margin-bottom: 16px;
+}
+
+.search {
+    width: 100%;
+    margin-bottom: 16px;
+    margin-top: 16px;
+}
+
+.data__item {
+    padding-left: 12px;
+    padding-right: 12px;
+}
+
+.data__item:hover {
+    cursor: pointer;
+    background: #ECE9FF;
+}
+
+.button__apply {
+    margin: 16px 0;
+}

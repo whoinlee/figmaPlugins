@@ -1,0 +1,15 @@
+.spinner {
+    width: 100%;
+    text-align: center;
+    margin: 20px 0;
+}
+
+.logo {
+    width: 140px;
+    margin-bottom: 16px;
+}
+
+/* Fix for Ant Tab scrolling */
+.ant-tabs { 
+    overflow: unset; 
+}
