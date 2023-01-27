@@ -1,6 +1,6 @@
 # Figma Plugins
 
-This plugin template uses Typescript and NPM and you can find instructions to get the plugin running at
+This plugin template uses Typescript and NPM, and you can find instructions to get the plugin running at
 https://www.figma.com/plugin-docs/setup/
 
 Install Visual Studio Code
@@ -38,5 +38,3 @@ We recommend writing TypeScript code using Visual Studio code:
    then select "tsc: watch - tsconfig.json". You will have to do this again every time
    you reopen Visual Studio Code.
 4. Run "npm run build" for production.
-
-That's it! Visual Studio Code will regenerate the JavaScript file every time you save.
