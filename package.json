@@ -7,11 +7,11 @@
     "build": "npx webpack --mode=production",
     "watch": "npx webpack --mode=development --watch"
   },
-  "author": "Shy Dhanani",
+  "author": "AppDynamics",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://bitbucket.corp.appdynamics.com/users/jangeles_appdynamics.com/repos/designtech/browse"
+    "url": "https://github.com/whoinlee/figmaPlugins"
   },
   "devDependencies": {
     "@figma/plugin-typings": "^1.39.1",
