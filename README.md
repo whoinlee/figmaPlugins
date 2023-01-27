@@ -2,7 +2,7 @@
 
 #### 1. Data Visualization Plugin
 
-![Alt text](/screenShots/figmaDataVizPlugin.jpg?raw=true 'DataViz Plugin')
+![Alt text](/screenShots/figmaDataVizPlugin2.jpg?raw=true 'DataViz Plugin')
 <br/>
 
 #### 2. Jira Communication Plugin
