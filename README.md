@@ -35,3 +35,13 @@ for the browser to run.
    then select "tsc: watch - tsconfig.json". You will have to do this again every time
    you reopen Visual Studio Code.
 3. Run "npm run build" for production.
+
+#### 1. Data Visualization Plugin
+
+![Alt text](/screenShots/figmaDataVizPlugin.jpg?raw=true 'DataViz Plugin')
+<br/>
+
+#### 2. Jira Communication Plugin
+
+![Alt text](/screenShots/figmaJiraPlugin.jpg?raw=true 'Jira Plugin')
+<br/>
