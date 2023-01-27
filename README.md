@@ -7,7 +7,7 @@
 
 #### 2. Jira Communication Plugin
 
-![Alt text](/screenShots/figmaJiraPlugin.jpg?raw=true 'Jira Plugin')
+![Alt text](/screenShots/figmaJiraPlugin2.jpg?raw=true 'Jira Plugin')
 <br/>
 
 ## Setup Guide
